@@ -88,7 +88,7 @@ XBOX: https://www.gamebrew.org/wiki/XBOX_Homebrew_Setup
 
 IOS: https://ios.cfw.guide/
 
-Emulators For PC:
+# **Emulators For PC:**
 
 Retroarch: https://www.retroarch.com/
 
@@ -116,6 +116,9 @@ Nintendo 64: https://www.pj64-emu.com/
 
 Gamecube And Wii: https://dolphin-emu.org/
 
+# **TELEGRAM**
+
+t.me/emulationlair
 Wii(U): https://cemu.info/
 
 Nintendo Switch: https://yuzu-emu.org/
