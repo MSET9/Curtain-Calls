@@ -1,10 +1,10 @@
-#Piracy Links**
+# **Piracy Links**
 
 **Movies, TV, And Anime:**
 
 Cartoons And Anime: https://m.wcostream.tv/cartoon-list
 
-Movies: https://fmoviesz.to/ and https://movies7.to/
+Movies: https://movie-web.app , https://fmoviesz.to/ and https://movies7.to/
 
 TV: https://fsharetv.co/
 
@@ -16,7 +16,7 @@ All Rounder: https://kodi.tv
 
 Addons for Kodi: https://team-crew.github.io/
 
-**Tools**
+# **Tools**
 
 For Opening RAR and ZIP files: 
 https://7-zip.org
@@ -31,7 +31,7 @@ Steamworkshop Downloader: https://ggntw.com/steam
 
 And Any VPN Of your Choice.
 
-#**Video Games**
+# **Video Games**
 
 Pirated PC Games: https://steamrip.com , https://g4u.to
 
@@ -39,7 +39,7 @@ PC Repacks: https://fitgirl-repacks.site (note ONLY use this site, rest are all 
 
 Trainers/Cheats: https://fearlessrevolution.com/
 
-#**Retro/Roms:**
+# **Retro/Roms:**
 ROMS Up to The 7th Gen: https://vimm.net and https://cdromance.com
 
 PS4: https://game-2u.com
@@ -50,7 +50,7 @@ Nintendo Switch: nxbrew.com
 
 Vita: https://nopaystation.com/
 
-#**MISC**
+# **MISC**
 
 
 NSFW Games: https://f95zone.to/
@@ -60,7 +60,7 @@ IPhone: https://www.iphonecake.com/
 TouHou: https://moriyashrine.org/
 
 
-#**Homebrew**
+# **Homebrew**
 
 PS4: https://www.cfwaifu.com/ps4-505-jailbreak/
 
