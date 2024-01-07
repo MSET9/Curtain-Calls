@@ -116,13 +116,9 @@ Nintendo 64: https://www.pj64-emu.com/
 
 Gamecube And Wii: https://dolphin-emu.org/
 
-# **TELEGRAM**
-
-t.me/emulationlair
 Wii(U): https://cemu.info/
 
 Nintendo Switch: https://yuzu-emu.org/
-
 
 PSP: https://www.ppsspp.org/
 
@@ -133,3 +129,7 @@ Gameboy Family: https://mgba.io/
 DS: https://melonds.kuribo64.net/
 
 3DS: https://citra-emu.org/
+
+# **TELEGRAM**
+
+t.me/emulationlair
