@@ -3,6 +3,8 @@ Browser Of Choice: https://mozilla.org/firefox/
 
 AdBlocker: https://ublockorigin.com
 
+Paid VPN Of Your Choice (Mullvad And ProtonVPN Reccomended)
+
 For Opening RAR and ZIP files: 
 https://7-zip.org
 
@@ -13,8 +15,6 @@ Torrent Client: https://www.qbittorrent.org/
 Pirated Games Multiplayer: https://online-fix.me/
 
 Steamworkshop Downloader: https://ggntw.com/steam
-
-And Any VPN Of your Choice. (Mullvad Reccomended)
 
 # **Movies Tv And Anime**
 
@@ -94,9 +94,9 @@ DS: https://melonds.kuribo64.net/
 
 # **MISC**
 
-Torrents: https://torrentgalaxy.to
-
 Music: https://slsknet.org
+
+Torrents: https://torrentgalaxy.to
 
 TouHou: https://moriyashrine.org/
 
@@ -104,4 +104,4 @@ Vocaloid: https://elrincondelkitsuneneo2-0.blogspot.com/?m=1
 
 NSFW Games: https://f95zone.to/
 
-Gooner Shit: https://theporndude.com
+NSFW Shit: https://theporndude.com
