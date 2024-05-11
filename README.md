@@ -1,20 +1,7 @@
-# **Piracy Links**
+# **Literature**
 
-**Movies, TV, And Anime:**
-
-Cartoons And Anime: https://m.wcostream.tv/cartoon-list
-
-Movies: https://movie-web.app , https://fmoviesz.to/ and https://movies7.to/
-
-TV: https://fsharetv.co/
-
-Torrenting Movies and Shows: https://watchsomuch.to/
-
-Subtitles: https://www.addic7ed.com/
-
-All Rounder: https://kodi.tv
-
-Addons for Kodi: https://team-crew.github.io/
+Books: https://annas-archive.org
+Manga: https://mangadex.org
 
 # **Tools**
 
@@ -31,7 +18,23 @@ Steamworkshop Downloader: https://ggntw.com/steam
 
 And Any VPN Of your Choice.
 
-# **Video Games**
+# **Movies Tv And Anime**
+
+Cartoons And Anime:
+
+Movies: https://Zoechip.cc https://fmoviesz.to/ https://hydrahd.com
+
+TV: https://fsharetv.co/
+
+Torrenting Movies and Shows: https://watchsomuch.to/
+
+Subtitles: https://www.addic7ed.com/
+
+All Rounder: https://kodi.tv
+
+Addons for Kodi: https://team-crew.github.io/
+
+# **PC Games**
 
 Pirated PC Games: https://steamrip.com , https://g4u.to
 
@@ -40,53 +43,31 @@ PC Repacks: https://fitgirl-repacks.site (note ONLY use this site, rest are all 
 Trainers/Cheats: https://fearlessrevolution.com/
 
 # **Retro/Roms:**
-ROMS Up to The 7th Gen: https://vimm.net and https://cdromance.com
 
-PS4: https://game-2u.com
+ROMS: https:myrient.erista.me https://vimm.net https://cdromance.org
 
-Nintendo Switch: nxbrew.com
+Nintendo Switch: https://nxbrew.com
 
 3DS: https://hshop.erista.me
 
-Vita: https://nopaystation.com/
+PS1-PSV: https://nopaystation.com/
+PS4: https://game-2u.com
 
 # **MISC**
 
+Torrents: https://torrentgalaxy.to
+
+Music: https://slsknet.org
 
 NSFW Games: https://f95zone.to/
+
+Gooner Shit: https://theporndude.com
 
 IPhone: https://www.iphonecake.com/
 
 TouHou: https://moriyashrine.org/
 
-
-# **Homebrew**
-
-PS4: https://www.cfwaifu.com/ps4-505-jailbreak/
-
-PS3: https://github.com/ZHassanQ/PS3-Guide
-
-Vita: https://vita.hacks.guide/
-
-3DS: https://3ds.cfw.guide
-
-DS(i): https://dsi.cfw.guide/
-
-Wii: https://wii.hacks.guide/
-
-Wii(U): https://wiiu.hacks.guide/#/
-
-Nintendo Switch: https://nh-server.github.io/switch-guide/
-
-Switch Root: https://wiki.switchroot.org/wiki/
-
-Xbox X|S Dev Mode: https://youtube.com/playlist?list=PLGTaokZjTu7hL4PCwaYbNkdLPgQL5NJJ0&si=9mQyhdTwn2chbeBg
-
-Xbox 360: https://consolemods.org/wiki/Xbox_360:Xbox_360_Mods_Wiki
-
-XBOX: https://www.gamebrew.org/wiki/XBOX_Homebrew_Setup
-
-IOS: https://ios.cfw.guide/
+Vocaloid: https://elrincondelkitsuneneo2-0.blogspot.com/?m=1
 
 # **Emulators For PC:**
 
@@ -102,8 +83,6 @@ PS3: https://rpcs3.net/
 
 PS4: https://github.com/red-prig/fpPS4
 
-Very Early Stage Emulator*
-
 Xbox: https://xemu.app/
 
 Xbox 360: https://xenia.jp/
@@ -118,7 +97,7 @@ Gamecube And Wii: https://dolphin-emu.org/
 
 Wii(U): https://cemu.info/
 
-Nintendo Switch: https://yuzu-emu.org/
+Nintendo Switch: https://www.mediafire.com/file/lh5qrlwun06gnlm/Yuzu.zip/file
 
 PSP: https://www.ppsspp.org/
 
@@ -128,8 +107,4 @@ Gameboy Family: https://mgba.io/
 
 DS: https://melonds.kuribo64.net/
 
-3DS: https://citra-emu.org/
-
-# **TELEGRAM**
-
-t.me/emulationlair
+3DS: https://www.mediafire.com/file/sv3yley6ic3qnxj/Citra.zip/file
