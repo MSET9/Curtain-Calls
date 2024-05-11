@@ -59,23 +59,37 @@ Retroarch: https://www.retroarch.com/
 Great All Round Emulator And Simple Setup.
 
 PSX: https://www.duckstation.org/
+
 PS2: https://pcsx2.net/
+
 PS3: https://rpcs3.net/
+
 PS4: https://github.com/red-prig/fpPS4
+
 PSP: https://www.ppsspp.org/
+
 Vita: https://vita3k.org/
 
 Xbox: https://xemu.app/
+
 Xbox 360: https://xenia.jp/
 
 NES: https://fceux.com/web/home.html
+
 SNES: https://www.snes9x.com/
+
 Nintendo 64: https://www.pj64-emu.com/
+
 Gamecube And Wii: https://dolphin-emu.org/
+
 Wii(U): https://cemu.info/
+
 Nintendo Switch: https://www.mediafire.com/file/lh5qrlwun06gnlm/Yuzu.zip/file
+
 Gameboy Family: https://mgba.io/
+
 DS: https://melonds.kuribo64.net/
+
 3DS: https://www.mediafire.com/file/sv3yley6ic3qnxj/Citra.zip/file
 
 # **MISC**
