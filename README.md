@@ -1,4 +1,5 @@
 # **Tools**
+
 Browser Of Choice: https://mozilla.org/firefox/
 
 AdBlocker: https://ublockorigin.com
@@ -52,6 +53,20 @@ PS1-PSV: https://nopaystation.com/
 
 PS4: https://game-2u.com
 
+# **MISC**
+
+Music: https://slsknet.org
+
+Torrents: https://torrentgalaxy.to
+
+TouHou: https://moriyashrine.org/
+
+Vocaloid: https://elrincondelkitsuneneo2-0.blogspot.com/?m=1
+
+NSFW Games: https://f95zone.to/
+
+NSFW Shit: https://theporndude.com
+
 # **Emulators For PC:**
 
 Retroarch: https://www.retroarch.com/
@@ -91,17 +106,3 @@ Gameboy Family: https://mgba.io/
 DS: https://melonds.kuribo64.net/
 
 3DS: https://www.mediafire.com/file/sv3yley6ic3qnxj/Citra.zip/file
-
-# **MISC**
-
-Music: https://slsknet.org
-
-Torrents: https://torrentgalaxy.to
-
-TouHou: https://moriyashrine.org/
-
-Vocaloid: https://elrincondelkitsuneneo2-0.blogspot.com/?m=1
-
-NSFW Games: https://f95zone.to/
-
-NSFW Shit: https://theporndude.com
