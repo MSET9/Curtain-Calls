@@ -1,68 +1,66 @@
 # **Tools**
 
-Browser Of Choice: https://mozilla.org/firefox/
+Browser Of Choice: [Firefox](https://mozilla.org/firefox/)
 
-AdBlocker: https://ublockorigin.com
+AdBlocker: [Ublock](https://ublockorigin.com)
 
-Paid VPN Of Your Choice (Mullvad And ProtonVPN Reccomended)
+Paid VPN Of Your Choice ([Mullvad](https://mullvad.net/en) And [ProtonVPN](https://protonvpn.com/) Reccomended)
 
 For Opening RAR and ZIP files: 
-https://7-zip.org
+[7zip](https://7-zip.org) [Winrar](https://www.win-rar.com/start.html?&L=0)
 
-Download Manager: https://motrix.app
+Download Manager: [Motrix](https://motrix.app)
 
-Torrent Client: https://www.qbittorrent.org/
+Torrent Client: [qbitTorrent](https://www.qbittorrent.org/)
 
-Pirated Games Multiplayer: https://online-fix.me/
+Pirated Games Multiplayer: [OnlineFix](https://online-fix.me/)
 
-Steamworkshop Downloader: https://ggntw.com/steam
+Steamworkshop Downloader: [GGNTW](https://ggntw.com/steam)
 
 # **Movies Tv And Anime**
 
-Movies: https://zoechip.cc https://fmoviesz.to/ https://hydrahd.com
+Movies: [ZoeChip](https://zoechip.cc)
 
-TV: https://fsharetv.co/
+TV: [FshareTV](https://fsharetv.co/)
 
-Anime: https://animepahe.ru
+Anime: [Animepahe](https://animepahe.ru)
 
-Torrenting Movies and Shows: https://watchsomuch.to/
+Torrenting Movies and Shows: [WatchSoMuch](https://watchsomuch.to/)
 
-Subtitles: https://www.addic7ed.com/
+All Rounder: [Stemio](https://www.stremio.com/)
 
-All Rounder: https://www.stremio.com/
-
-Addons for Stremio: https://torrentio.strem.fun
+Addons for Stremio: [Torrentio](https://torrentio.strem.fun)
 
 # **PC Games**
 
-Pirated PC Games: https://gamebounty.world , https://steamrip.com , https://g4u.to
+Pirated PC Games: [GameBounty](https://gamebounty.world) , [SteamRIP](https://steamrip.com) , [G4U](https://g4u.to)
 
 PC Repacks: [Fitgirl](https://fitgirl-repacks.site) (note ONLY use this site, rest are all malware, and contain bitcoin miners) [Dodi](https://dodi-repacks.site/)
 
-Trainers/Cheats: https://fearlessrevolution.com/
+Trainers/Cheats: [FearlessRevolution](https://fearlessrevolution.com/)
 
 # **Retro/Roms:**
 
-ROMS: https://myrient.erista.me https://vimm.net https://cdromance.org
+ROMS: [Myrient](https://myrient.erista.me) [Vimm](https://vimm.net) [CdRomance](https://cdromance.org)
 
 Nintendo Switch: [NxBrew](https://nxbrew.com)
 
 3DS: [Hshop](https://hshop.erista.me)
 
-PS1-PSV: https://nopaystation.com/
+PS1-PSV: [NoPaystation](https://nopaystation.com/)
 
-PS4: https://game-2u.com
+PS4: [Game2U](https://game-2u.com)
 
 # **MISC**
 
-Music: https://slsknet.org
+Music: [Soulseek](https://slsknet.org)
 
-Torrents: https://torrentgalaxy.to
+Torrents: [TorrentGalaxy](https://torrentgalaxy.to)
 
-TouHou: https://moriyashrine.org/
+TouHou: [TouHou](https://moriyashrine.org/)
 
-Vocaloid: https://elrincondelkitsuneneo2-0.blogspot.com/?m=1
+Vocaloid: [Elrincondelkit](https://elrincondelkitsuneneo2-0.blogspot.com/?m=1)
 
-NSFW Games: https://f95zone.to/
+NSFW Games: [F95zone](https://f95zone.to/)
 
-NSFW Shit: https://theporndude.com
+NSFW Shit: [ThePornDude](https://theporndude.com)
