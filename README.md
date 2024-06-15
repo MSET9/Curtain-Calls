@@ -29,15 +29,15 @@ Torrenting Movies and Shows: https://watchsomuch.to/
 
 Subtitles: https://www.addic7ed.com/
 
-All Rounder: https://kodi.tv
+All Rounder: https://www.stremio.com/
 
-Addons for Kodi: https://team-crew.github.io/
+Addons for Stremio: https://torrentio.strem.fun
 
 # **PC Games**
 
-Pirated PC Games: https://steamrip.com , https://g4u.to
+Pirated PC Games: https://gamebounty.world , https://steamrip.com , https://g4u.to
 
-PC Repacks: https://fitgirl-repacks.site (note ONLY use this site, rest are all malware, and contain bitcoin miners)
+PC Repacks: [Fitgirl](https://fitgirl-repacks.site) (note ONLY use this site, rest are all malware, and contain bitcoin miners) [Dodi](https://dodi-repacks.site/)
 
 Trainers/Cheats: https://fearlessrevolution.com/
 
@@ -45,9 +45,9 @@ Trainers/Cheats: https://fearlessrevolution.com/
 
 ROMS: https://myrient.erista.me https://vimm.net https://cdromance.org
 
-Nintendo Switch: https://nxbrew.com
+Nintendo Switch: [NxBrew](https://nxbrew.com)
 
-3DS: https://hshop.erista.me
+3DS: [Hshop](https://hshop.erista.me)
 
 PS1-PSV: https://nopaystation.com/
 
@@ -66,43 +66,3 @@ Vocaloid: https://elrincondelkitsuneneo2-0.blogspot.com/?m=1
 NSFW Games: https://f95zone.to/
 
 NSFW Shit: https://theporndude.com
-
-# **Emulators For PC:**
-
-Retroarch: https://www.retroarch.com/
-
-Great All Round Emulator And Simple Setup.
-
-PSX: https://www.duckstation.org/
-
-PS2: https://pcsx2.net/
-
-PS3: https://rpcs3.net/
-
-PS4: https://github.com/red-prig/fpPS4
-
-PSP: https://www.ppsspp.org/
-
-Vita: https://vita3k.org/
-
-Xbox: https://xemu.app/
-
-Xbox 360: https://xenia.jp/
-
-NES: https://fceux.com/web/home.html
-
-SNES: https://www.snes9x.com/
-
-Nintendo 64: https://www.pj64-emu.com/
-
-Gamecube And Wii: https://dolphin-emu.org/
-
-Wii(U): https://cemu.info/
-
-Nintendo Switch: https://www.mediafire.com/file/lh5qrlwun06gnlm/Yuzu.zip/file
-
-Gameboy Family: https://mgba.io/
-
-DS: https://melonds.kuribo64.net/
-
-3DS: https://www.mediafire.com/file/sv3yley6ic3qnxj/Citra.zip/file
