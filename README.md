@@ -19,7 +19,7 @@ Steamworkshop Downloader: [GGNTW](https://ggntw.com/steam)
 
 # **Movies Tv And Anime**
 
-Movies/TV: [ZoeChip](https://zoechip.cc) [Braflix](https://www.braflix.ru/) [FshareTV](https://fsharetv.co/) [Sflix](https://sflix.to]
+Movies/TV: [ZoeChip](https://zoechip.cc) [Braflix](https://www.braflix.ru/) [FshareTV](https://fsharetv.co/) [Sflix](https://sflix.to)
 
 Anime: [Animepahe](https://animepahe.ru)
 
