@@ -1,4 +1,4 @@
-### I am not responsible for any damages to your devices, I am simply providing. - MSET
+### I am not responsible for any damages to your devices, I am simply providing.
 
 # **Tools**
 
@@ -21,14 +21,13 @@ Steamworkshop Downloader: [GGNTW](https://ggntw.com/steam)
 
 # **Movies/TV, Anime and literature**
 
-Movies/TV: [Sflix](https://sflix.to) [ZoeChip](https://zoechip.cc) [Braflix](https://www.braflix.ru/) [FshareTV](https://fsharetv.co/) 
+Movies/TV: [7Xtream](https://cinema.7xtream.com/) 
 
 Anime: [Animepahe](https://animepahe.ru) [Akuse Desktop App](https://github.com/akuse-app/akuse) [Aniwave](https://aniwave.to/)
 
 Torrenting Movies and Shows: [WatchSoMuch](https://watchsomuch.to/)
 
 All Rounder: [Stemio](https://www.stremio.com/)
-
 Addons for Stremio: [Torrentio](https://torrentio.strem.fun)
 
 Books:[Anna's Archive](https://annas-archive.gs/) [Zlibrary](https://mangareader.to/) [PDFDrive](https://pdfdrive.to/) 
@@ -39,7 +38,7 @@ Manga: [Mangadex.org](https://mangadex.org/) [MangaReader](https://mangareader.t
 
 # **PC Games/software**
 
-Pirated PC Games: [SteamRIP](https://steamrip.com) [GameBounty](https://gamebounty.world) [G4U](https://g4u.to)
+Pirated PC Games: [Anker](https://ankergames.net) [GameBounty](https://gamebounty.world) [G4U](https://g4u.to) 
 
 PC Repacks: [Fitgirl](https://fitgirl-repacks.site) (note ONLY use this site, rest are all malware, and contain bitcoin miners) [Dodi](https://dodi-repacks.site/)
 
@@ -66,5 +65,3 @@ Music: [Soulseek Desktop](https://slsknet.org) [DoubleDouble link downloader](ht
 Torrents: [TorrentGalaxy](https://torrentgalaxy.to)
 
 TouHou: [TouHou](https://moriyashrine.org/)
-
-Vocaloid: [Elrincondelkit](https://elrincondelkitsuneneo2-0.blogspot.com/?m=1)
